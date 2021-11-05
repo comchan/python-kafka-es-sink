@@ -12,3 +12,8 @@ A very simple sink that consume Kafka message and push it to Elasticsearch
 ```bash
 pip3 install elasticsearch==7.10.1 kafka-python
 ```
+
+## Usage
+```bash
+python3 app.py
+```
